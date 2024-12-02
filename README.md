@@ -36,6 +36,11 @@
 
       4. For verification whether my git is integrated with which repo of my git hub  account use given command in git -> git remote -v.
 
+**IMPORTANT**
+
+    1. If Intellij has not fetched complete repo than we should run git fetch --all for fetching complete repo 
+    2. If two brances have unrelated history than we can merge the branch b1 with branch 2 using  git checkout b2  than git merge b1 --allow-unrelated-histories.
+       Open the vim folder enter commit message and type :wq for exisit.
       
 
        
