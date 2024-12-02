@@ -1,10 +1,12 @@
-**How to CLone a Git Repo with Intellij IDE**
+**How to CLone a Git Repo with Intellij IDE** 
+
        1.Open the Intellij IDE in the terminal type command git clone https://github.com/xyz/repo.git
+       
        2.Navigate to cloned repository using cd repo from repo.git
+       
        3.Now if you want to open the git repo in Intellij IDE use FILE-> OPEN-> NAVIGATE THE FOLDER WHICH YOU WANT TO OPEN-> SELECT FOLDER-> CLICK OPEN.
 **HOW TO CLONE GIT REPO WITHOUT COMMAND LINE**
        1. Open The INTELLIJ IDE.
-       2. From  The Top Navigation bar click on FILE ->NEW ->PROJECT FROM VERSION CONTROL-> provide git REPO URL AND OK.
 **IF GIT IS ALREADY CONNECTED WITH INTELLIJ THE HOW TO USE PARTCULAR REPOSITORY**
        1. Open the Intellij IDE.
        2. from the top navigation bar click on VCS -> Enable version control integration-> from dropdown click Git.
